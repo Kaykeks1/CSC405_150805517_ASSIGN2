@@ -1,0 +1,35 @@
+#CalcBody {
+	width: 280px;
+	height: 370px;
+	border: 8px grey solid;
+	border-radius: 15px;
+	background-color: #336666;
+	margin:100px;
+	padding-top:5px;
+}
+#SciBody{
+	margin-top: 10px;
+	padding:10px;
+	border:1px grey solid;
+	width:230px;
+	height:95px;
+	border-radius:5px;
+	margin-bottom:10px;
+}
+.SciButts{
+	width:50px;
+	height:30px;
+	border-radius:5px;
+}
+.butts{
+	width:50px;
+	height:30px;
+	border-radius:5px;
+	margin-right:0px;
+}
+html{
+	margin:0;
+	background: url('ruins.jpg') no-repeat ;
+	background-attachment:fixed;
+	background-size: cover;
+}
